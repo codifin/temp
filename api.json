@@ -122448,24 +122448,6 @@
         }
       ]
     },
-	"73284": {
-      "name": "Lopush'",
-      "itu": "RUS",
-      "lat": 53.034000,
-      "lon": 34.031500,
-      "stations": [
-        {
-          "id": 6755777,
-          "freq": 101.0,
-          "station": "PEERDOWN",
-          "pol": "v",
-          "erp": 0.00,
-          "inactive": false
-		  "pi": "F1F1",
-          "ps": "PEERDOWN"
-        }
-      ]
-    },
     "101190969": {
       "name": "Мироновка",
       "itu": "RUS",
