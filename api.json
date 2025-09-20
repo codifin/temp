@@ -122454,6 +122454,8 @@
           "pol": "v",
           "erp": 0.00,
           "inactive": false
+		  "pi": "F1F1",
+          "ps": "PEERDOWN"
         }
       ]
     },
